@@ -2,9 +2,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=0CF750&width=435&lines=%24Jojoneedspizza+%7C+jojo_gmx%24)](https://git.io/typing-svg)
 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h1>About Me:</h1>
-<p><strong>Born in: </strong> MUC , 🇩🇪Germany, 🇪🇺Europe</p>
+
+
+
+
 <!--
 **JojoNeedsPizza/jojoneedspizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
