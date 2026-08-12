@@ -3,9 +3,12 @@
 
 
 
-
-
-
+<div style="border: 2px dashed #ccc; padding: 15px;">
+<h3>Skills:</h3>
+<h4> 🐍 Python (a little) </h4>
+<h4>       <> HTML        </h4>
+<h4>       🖌️ CSS         </h4>    
+</div>
 <!--
 **JojoNeedsPizza/jojoneedspizza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
